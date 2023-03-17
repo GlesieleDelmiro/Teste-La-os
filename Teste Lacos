@@ -10,7 +10,5 @@ public class TestarLacos {
 			}
 			System.out.println( );
 		}
-		
 	}
-
 }
